@@ -1,5 +1,5 @@
 --Joined two tables relating to covid deaths and covid vaccinations along with 
---creating a new table with percent of population were vaccinated
+--creating a new table with percent of population that were vaccinated
 
 Select * 
 From PortfolioProject..CovidDeaths
