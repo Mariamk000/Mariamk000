@@ -1,3 +1,6 @@
+--Joined two tables relating to covid deaths and covid vaccinations along with 
+--creating a new table with percent of population were vaccinated
+
 Select * 
 From PortfolioProject..CovidDeaths
 Where continent is not null
